@@ -30,5 +30,9 @@ header{
 
 }
 .img-mujer{
-background-size: 80% 80%;
+background-size: 40% 40%;
+}
+.img-reloj{
+width: 50px;
+height: 30px;
 }
